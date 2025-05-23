@@ -37,6 +37,14 @@ Hazlo apoyado en los archivos `index.html` y `script.js` que proporcionamos dent
 
 Utiliza un chatbot, como **ChatGPT** o **Gemini**, no un asistente de código en un IDE como **GitHub Copilot**.
 
+**Extras obligatorios:**
+- Muestra una lista debajo del input con todas las cadenas invertidas anteriormente.
+- Cada entrada debe tener:
+  - Un botón para copiar al portapapeles.
+  - Un botón para volver a cargar esa cadena en el input.
+  - Un check de modo automático activado, si está chequeado, el app automáticamente va reversando la cadena y sólo pasa a la historia cuando el usuario da click en el botón “”copiar”
+- El historial se guarda en memoria (JS), no en localStorage.
+
 ### 📤 Entrega
 
 Para entregar, haz una pull request que incluya:

@@ -1,3 +1,5 @@
+## Unico prompt utilizado. El chatbot utilizado fue ChatGPT.
+
 por favor, actua siempre en este chat como un experto en programacion y desarrollo web, principalmente en javascript. 
 
 crea una página web con lógica en JavaScript que invierta el orden de una cadena de texto. Hazlo apoyado en los archivos index.html y script.js
@@ -26,3 +28,4 @@ En la parte de abajo una botonera con tres botones:
 
 
 Justo al lado de textbox1, un checkbox chkb1 seleccionado por defecto, que si esta activado el app automáticamente va reversando la cadena y sólo pasa a la historia cuando el usuario da click en el botón “”copiar”
+
